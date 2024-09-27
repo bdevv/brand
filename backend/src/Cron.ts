@@ -13,7 +13,7 @@ import { History } from "./entity/History";
 const { google } = require("googleapis");
 // Your API key
 // const apiKey = "AIzaSyCTDPX4tBOAtROQ7B5dLMtzVxVcSc5O7fw";
-const apiKey = "AIzaSyCEsHkk1U4N6JsXqNcornfLUadhpVaVueI";
+const apiKey = "";
 // Create a YouTube Data API client
 const youtube = google.youtube({
   version: "v3",
